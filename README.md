@@ -24,7 +24,7 @@ To build and run this project, you need to have the following installed:
 
 2. Build the project:
    ```
-   g++ src/main.cpp -o pong-game -lraylib -lm -lpthread -ldl -lrt -lX11
+   g++ main.cpp -o pong-game -lraylib -lm -lpthread -ldl -lrt -lX11
    ```
 
 ## Running the Game
