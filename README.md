@@ -4,7 +4,7 @@ This project is a simple implementation of the classic Pong game using the Rayli
 
 ## Files
 
-- `src/main.cpp`: Contains the main implementation of the Pong game, including the game loop, entity classes (`Ball`, `Paddle`, and `CpuPaddle`), and game logic for scoring and collision detection.
+- `main.cpp`: Contains the main implementation of the Pong game, including the game loop, entity classes (`Ball`, `Paddle`, and `CpuPaddle`), and game logic for scoring and collision detection.
 - `.gitignore`: Specifies files and directories that should be ignored by Git.
 
 ## Requirements
@@ -18,7 +18,7 @@ To build and run this project, you need to have the following installed:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/sheeerr/pong-game]
+   git clone https://github.com/sheeerr/pong-game.git
    cd pong-game
    ```
 
